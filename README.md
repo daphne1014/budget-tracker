@@ -38,12 +38,12 @@ SO THAT my account balance is accurate when I am traveling
   The MIT License
 
 ## Website
+https://module-19budget-tracker.herokuapp.com/
 
-    
 
 ## Screenshot
   
-  ![screenshot image](./public/img/screenshot.JPG?raw=true "Screenshot") 
+  ![screenshot image](./public/images/screenshot.JPG?raw=true "Screenshot") 
    
 ## Questions
   Feel free to reach out me on GitHub:  
