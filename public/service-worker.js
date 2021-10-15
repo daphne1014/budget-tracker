@@ -8,6 +8,7 @@ const FILES_TO_CACHE = [
   "./js/idb.js"
 ];
 
+
 // Respond with cached resources
 self.addEventListener('fetch', function (e) {
   console.log('fetch request : ' + e.request.url)
